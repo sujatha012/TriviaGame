@@ -1,0 +1,82 @@
+#bg {
+    background-image: url('../img/bg.jpg');
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 100px;
+    color: orchid;
+    text-align: center;
+}
+
+#lay {
+
+    width: 50%;
+    background-color: lightpink;
+    padding: 100px;
+    margin: auto;
+    margin-top: 40px;
+
+    border: 1px solid;
+}
+
+#pa {
+
+    width: 50%;
+    background-color: lightskyblue;
+    margin: auto;
+    border: 1px solid;
+    padding: 25px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#lay,#lay1 {
+
+    width: 50%;
+    background-color: lightpink;
+    padding: 100px;
+    margin: auto;
+    margin-top: 40px;
+
+    border: 1px solid;
+}
+
+
+#gg {
+    width: 75%;
+    background-color: lightpink;
+    margin: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+p,button {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+
+}
+button {
+    width: 150px;
+    height: 40px;
+    font-size: xx-large;
+}
+
+.ap {
+    text-align: center;
+    font-size: large;
+
+}
+  
+
